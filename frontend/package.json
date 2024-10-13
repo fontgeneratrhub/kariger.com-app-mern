@@ -6,9 +6,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --host --open",
-    "build": "vite build",
-    "preview": "vite preview"
+    "scripts": {
+    "build": "[my-framework] build --output public"
   },
   "keywords": [
     "react",
