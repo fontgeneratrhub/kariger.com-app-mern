@@ -5,11 +5,11 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  {
   "scripts": {
-    "dev": "vite --host --open",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
+    "build": "[my-framework] build --output public"
+  }
+}
   "keywords": [
     "react",
     "vite",
